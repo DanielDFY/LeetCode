@@ -18,5 +18,4 @@ To find proper pairs, we need to go through the numbers. We can use hash map to 
 
 
 
-**Solution:** C++
-
+**Solution:** [C++](./solution.h)	[Test](./Test.cpp)
