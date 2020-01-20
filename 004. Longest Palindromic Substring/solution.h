@@ -20,12 +20,12 @@ public:
     string longestPalindrome(string s) {
         int len = s.size();
         if (len == 0) return s;
-        int start = 0, last = 0;
+        int begin = 0, end = 1;
         for (int i = 0; i < len - 1; ++i) {
-            longestPalindrome(s, i, i, start, last);
-            longestPalindrome(s, i, i + 1, start, last);
+            longestPalindrome(s, i, i, begin, end);
+            longestPalindrome(s, i, i + 1, begin, end);
         }
-        return s.substr(start, last - start);
+        return s.substr(begin, end - begin);
     }
 };
 
