@@ -2,7 +2,7 @@
 #include "catch.hpp"
 #include "solution.h"
 
-TEST_CASE("Add Two Numbers", "addTwoNumbers")
+TEST_CASE("Longest Substring Without Repeating Characters", "longestSubstringWithoutRepeatingCharacters")
 {
     Solution s;
 

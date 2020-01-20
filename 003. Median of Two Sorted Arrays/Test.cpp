@@ -2,7 +2,7 @@
 #include "catch.hpp"
 #include "solution.h"
 
-TEST_CASE("Add Two Numbers", "addTwoNumbers") {
+TEST_CASE("Median of Two Sorted Arrays", "medianOfTwoSortedArrays") {
     Solution s;
 
     vector<int> nums1 = {1, 2};
