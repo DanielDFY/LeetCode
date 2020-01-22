@@ -2,7 +2,7 @@
 #include "catch.hpp"
 #include "solution.h"
 
-TEST_CASE("ZigZag Conversion", "zigZagConversion") {
+TEST_CASE("ZigZag Conversion", "zigzagConversion") {
     Solution s;
 
     REQUIRE(s.convert("PAYPALISHIRING", 3) == "PAHNAPLSIIGYIR");
