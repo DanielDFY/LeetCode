@@ -11,5 +11,5 @@ LeetCode solutions in C++11 with unit tests under Catch2 framework.
 | 004 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./004.%20Longest%20Palindromic%20Substring/solution.h) | [Note](./004.%20Longest%20Palindromic%20Substring/README.md) | Medium |
 | 005 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./005.%20ZigZag%20Conversion/solution.h) | [Note](./005.%20ZigZag%20Conversion/README.md) | Medium |
 | 006 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./006.%20Reverse%20Integer/solution.h) | [Note](./006.%20Reverse%20Integer/README.md) | Easy |
-| 007 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./007.%20String%20to%20Integer%20(atoi)/solution.h) | [Note](./006.%20String%20to%20Integer%20(atoi)/README.md) | Medium |
+| 007 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./007.%20String%20to%20Integer%20(atoi)/solution.h) | [Note](./007.%20String%20to%20Integer%20(atoi)/README.md) | Medium |
 
