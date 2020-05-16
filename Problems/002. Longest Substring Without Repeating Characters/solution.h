@@ -26,4 +26,5 @@ public:
         return max(ret, strSize - start);
     }
 };
+
 #endif //LEETCODE_SOLUTION_H

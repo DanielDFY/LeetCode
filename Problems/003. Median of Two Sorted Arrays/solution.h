@@ -59,4 +59,5 @@ public:
         return 0.0;
     }
 };
+
 #endif //LEETCODE_SOLUTION_H

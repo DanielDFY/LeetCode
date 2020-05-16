@@ -27,4 +27,5 @@ public:
         return result.next;
     }
 };
+
 #endif //LEETCODE_SOLUTION_H

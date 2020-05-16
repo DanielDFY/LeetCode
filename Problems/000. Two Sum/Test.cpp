@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "catch.hpp"
+#include "../../Utils/Cacth/single_include/catch2/catch.hpp"
 #include "solution.h"
 
 TEST_CASE("Two Sum", "twoSum")
