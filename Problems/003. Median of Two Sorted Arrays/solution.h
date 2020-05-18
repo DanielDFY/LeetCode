@@ -27,6 +27,10 @@ public:
             m = nums2.size();
             n = nums1.size();
         }
+
+        if (m + n == 0)
+            return 0;
+
         vector<int>& vm = *pvm;
         vector<int>& vn = *pvn;
 
