@@ -2,7 +2,7 @@
 #include "../../Utils/Cacth/single_include/catch2/catch.hpp"
 #include "solution.h"
 
-TEST_CASE("Longest Palindromic Substring", "longestPalindrome") {
+TEST_CASE("Longest Palindromic Substring") {
     Solution s;
 
     SECTION("normal input") {

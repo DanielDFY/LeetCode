@@ -2,7 +2,7 @@
 #include "../../Utils/Cacth/single_include/catch2/catch.hpp"
 #include "solution.h"
 
-TEST_CASE("Median of Two Sorted Arrays", "medianOfTwoSortedArrays") {
+TEST_CASE("Median of Two Sorted Arrays") {
     Solution s;
 
     SECTION("normal input") {
