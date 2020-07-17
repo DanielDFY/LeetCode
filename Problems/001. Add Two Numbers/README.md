@@ -49,4 +49,10 @@ tail->next = new ListNode(sum.rem);
 
 
 
+Time complexity: O(max(*m*,*n*))
+
+Space complexity: O(max(*m*,*n*))
+
+
+
 **Solution:** [C++](./solution.h)	[Test](./Test.cpp)

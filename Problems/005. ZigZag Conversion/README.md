@@ -42,6 +42,8 @@ string convert(string s, int numRows);
 
 We can construct the final result by visiting row-by-row. In each row, there can be two kinds of characters(in the straight/tilted column). So we can get them by adding offsets based on the position of each straight column. Suppose `i`th row is visited, the index of the character in the straight/tilted column should be `columnIndex +/- i` (tilted column is before straight column, except the first and last column where they will overlap).
 
+
+
 Time Complexity: O(n).
 
 Space Complexity: O(1) if return string is not considered extra space.

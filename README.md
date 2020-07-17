@@ -12,6 +12,10 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 005  | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) |   [C++](./Problems/005.%20ZigZag%20Conversion/solution.h)    |   [Note](./Problems/005.%20ZigZag%20Conversion/README.md)    |   Medium   |
 | 006  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |    [C++](./Problems/006.%20Reverse%20Integer/solution.h)     |    [Note](./Problems/006.%20Reverse%20Integer/README.md)     |    Easy    |
 | 007  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./Problems/007.%20String%20to%20Integer%20(atoi)/solution.h) | [Note](./Problems/007.%20String%20to%20Integer%20(atoi)/README.md) |   Medium   |
+| 010  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](./Problems/010.%20Container%20With%20Most%20Water/solution.h) | [Note](./Problems/010.%20Container%20With%20Most%20Water/README.md) |   Medium   |
+| 014  |         [3Sum](https://leetcode.com/problems/3sum/)          |           [C++](./Problems/014.%203Sum/solution.h)           |           [Note](./Problems/014.%203Sum/README.md)           |   Medium   |
+
+
 
 
 
