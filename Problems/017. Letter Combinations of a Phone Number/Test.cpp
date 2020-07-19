@@ -2,7 +2,7 @@
 #include "../../Utils/Cacth/single_include/catch2/catch.hpp"
 #include "solution.h"
 
-TEST_CASE("3Sum")
+TEST_CASE("Letter Combinations of a Phone Number")
 {
     Solution s;
 

@@ -16,6 +16,8 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 015  |         [3Sum](https://leetcode.com/problems/3sum/)          |           [C++](./Problems/015.%203Sum/solution.h)           |           [Note](./Problems/015.%203Sum/README.md)           |   Medium   |
 | 017  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](./Problems/017.%20Letter%20Combinations%20of%20a%20Phone%20Number/solution.h) | [Note](./Problems/017.%20Letter%20Combinations%20of%20a%20Phone%20Number/README.md) |   Medium   |
 | 019  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./Problems/019.%20Remove%20Nth%20Node%20From%20End%20of%20List/solution.h) | [Note](./Problems/019.%20Remove%20Nth%20Node%20From%20End%20of%20List/README.md) |   Medium   |
+| 020  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |   [C++](./Problems/020.%20Valid%20Parentheses/solution.h)    |   [Note](./Problems/020.%20Valid%20Parentheses/README.md)    |    Easy    |
+| 021  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./Problems/021.%20Merge%20Two%20Sorted%20Lists/solution.h) | [Note](./Problems/021.%20Merge%20Two%20Sorted%20Lists/README.md) |    Easy    |
 
 
 

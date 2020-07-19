@@ -40,7 +40,7 @@ bool checkList(ListNode* pList1, ListNode* pList2) {
     return pList1 == nullptr && pList2 == nullptr;
 }
 
-TEST_CASE("3Sum")
+TEST_CASE("Remove Nth Node From End of List")
 {
     Solution s;
 
