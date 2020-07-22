@@ -20,6 +20,7 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 021  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./Problems/021.%20Merge%20Two%20Sorted%20Lists/solution.h) | [Note](./Problems/021.%20Merge%20Two%20Sorted%20Lists/README.md) |    Easy    |
 | 022  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) |  [C++](./Problems/022.%20Generate%20Parentheses/solution.h)  |  [Note](./Problems/022.%20Generate%20Parentheses/README.md)  |   Medium   |
 | 033  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./Problems/033.%20Search%20in%20Rotated%20Sorted%20Array/solution.h) | [Note](./Problems/033.%20Search%20in%20Rotated%20Sorted%20Array/README.md) |   Medium   |
+| 034  | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [C++](./Problems/034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/solution.h) | [Note](./Problems/034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/README.md) |   Medium   |
 
 
 
