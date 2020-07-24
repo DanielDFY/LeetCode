@@ -24,6 +24,9 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 039  | [Combination Sum](https://leetcode.com/problems/combination-sum/) |    [C++](./Problems/039.%20Combination%20Sum/solution.h)     |    [Note](./Problems/039.%20Combination%20Sum/README.md)     |   Medium   |
 | 046  | [Permutations](https://leetcode.com/problems/permutations/)  |       [C++](./Problems/046.%20Permutations/solution.h)       |       [Note](./Problems/046.%20Permutations/README.md)       |   Medium   |
 | 048  | [Rotate Image](https://leetcode.com/problems/rotate-image/)  |      [C++](./Problems/048.%20Rotate%20Image/solution.h)      |      [Note](./Problems/048.%20Rotate%20Image/README.md)      |   Medium   |
+| 049  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |     [C++](./Problems/049.%20Group%20Anagrams/solution.h)     |     [Note](./Problems/049.%20Group%20Anagrams/README.md)     |   Medium   |
+| 053  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |    [C++](./Problems/053.%20Maximum%20Subarray/solution.h)    |    [Note](./Problems/053.%20Maximum%20Subarray/README.md)    |    Easy    |
+| 055  |    [Jump Game](https://leetcode.com/problems/jump-game/)     |       [C++](./Problems/055.%20Jump%20Game/solution.h)        |       [Note](./Problems/055.%20Jump%20Game/README.md)        |   Medium   |
 
 
 
