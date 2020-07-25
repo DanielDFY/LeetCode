@@ -27,6 +27,8 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 049  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |     [C++](./Problems/049.%20Group%20Anagrams/solution.h)     |     [Note](./Problems/049.%20Group%20Anagrams/README.md)     |   Medium   |
 | 053  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |    [C++](./Problems/053.%20Maximum%20Subarray/solution.h)    |    [Note](./Problems/053.%20Maximum%20Subarray/README.md)    |    Easy    |
 | 055  |    [Jump Game](https://leetcode.com/problems/jump-game/)     |       [C++](./Problems/055.%20Jump%20Game/solution.h)        |       [Note](./Problems/055.%20Jump%20Game/README.md)        |   Medium   |
+| 056  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) |    [C++](./Problems/056.%20Merge%20Intervals/solution.h)     |    [Note](./Problems/056.%20Merge%20Intervals/README.md)     |   Medium   |
+| 062  | [Unique Paths](https://leetcode.com/problems/unique-paths/)  |      [C++](./Problems/062.%20Unique%20Paths/solution.h)      |      [Note](./Problems/062.%20Unique%20Paths/README.md)      |   Medium   |
 
 
 
