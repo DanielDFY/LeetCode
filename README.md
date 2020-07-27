@@ -29,6 +29,9 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 055  |    [Jump Game](https://leetcode.com/problems/jump-game/)     |       [C++](./Problems/055.%20Jump%20Game/solution.h)        |       [Note](./Problems/055.%20Jump%20Game/README.md)        |   Medium   |
 | 056  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) |    [C++](./Problems/056.%20Merge%20Intervals/solution.h)     |    [Note](./Problems/056.%20Merge%20Intervals/README.md)     |   Medium   |
 | 062  | [Unique Paths](https://leetcode.com/problems/unique-paths/)  |      [C++](./Problems/062.%20Unique%20Paths/solution.h)      |      [Note](./Problems/062.%20Unique%20Paths/README.md)      |   Medium   |
+| 064  | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) |   [C++](./Problems/064.%20Minimum%20Path%20Sum/solution.h)   |   [Note](./Problems/064.%20Minimum%20Path%20Sum/README.md)   |   Medium   |
+| 070  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |    [C++](./Problems/070.%20Climbing%20Stairs/solution.h)     |    [Note](./Problems/070.%20Climbing%20Stairs/README.md)     |    Easy    |
+| 075  |  [Sort Colors](https://leetcode.com/problems/sort-colors/)   |      [C++](./Problems/075.%20Sort%20Colors/solution.h)       |      [Note](./Problems/075.%20Sort%20Colors/README.md)       |   Medium   |
 
 
 

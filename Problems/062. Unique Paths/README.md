@@ -25,7 +25,7 @@ How many possible unique paths are there?
 
 **Idea:** 
 
-Consider each position in the whole grid. Each spot in the first row or col only has one path from the origin. The number of paths from the origin to each of the rest spots is the sum of the number of paths of its left spot and top spot.
+Consider each position in the whole grid. Each spot in the first row or column only has one path from the origin. The number of paths from the origin to each of the rest spots is the sum of the number of paths of its left spot and top spot.
 
 
 

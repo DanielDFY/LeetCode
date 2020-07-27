@@ -18,7 +18,7 @@ Given a collection of intervals, merge all overlapping intervals.
 
 **Idea:** 
 
-If we sort the intervals by their `start` value, then each set of intervals that can be merged will appear as a contiguous "run" in the sorted list. Go through the intervals and keep tracking a temp "merged interval". If the `start` value of the "new" interval exceeds the `end` value of our temp interval, the merging of the temp interval should be completed and store in the output, and the current interval becomes our new temp interval. Otherwise if the `end` value exceeds the `end` value of our temp interval, we should merge them together.
+If we sort the intervals by their `start` value, then each set of intervals that can be merged will appear as a contiguous "run" in the sorted list. Go through the intervals and keep track of a temp "merged interval". If the `start` value of the "new" interval exceeds the `end` value of our temp interval, the merging of the temp interval should be completed and store in the output, and the current interval becomes our new temp interval. Otherwise if the `end` value exceeds the `end` value of our temp interval, we should merge them together.
 
 
 
