@@ -33,6 +33,7 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 070  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |    [C++](./Problems/070.%20Climbing%20Stairs/solution.h)     |    [Note](./Problems/070.%20Climbing%20Stairs/README.md)     |    Easy    |
 | 075  |  [Sort Colors](https://leetcode.com/problems/sort-colors/)   |      [C++](./Problems/075.%20Sort%20Colors/solution.h)       |      [Note](./Problems/075.%20Sort%20Colors/README.md)       |   Medium   |
 | 078  |      [Subsets](https://leetcode.com/problems/subsets/)       |         [C++](./Problems/078.%20Subsets/solution.h)          |         [Note](./Problems/078.%20Subsets/README.md)          |   Medium   |
+| 079  |  [Word Search](https://leetcode.com/problems/word-search/)   |      [C++](./Problems/079.%20Word%20Search/solution.h)       |      [Note](./Problems/079.%20Word%20Search/README.md)       |   Medium   |
 
 
 
