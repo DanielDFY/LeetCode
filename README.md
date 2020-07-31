@@ -34,6 +34,8 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 075  |  [Sort Colors](https://leetcode.com/problems/sort-colors/)   |      [C++](./Problems/075.%20Sort%20Colors/solution.h)       |      [Note](./Problems/075.%20Sort%20Colors/README.md)       |   Medium   |
 | 078  |      [Subsets](https://leetcode.com/problems/subsets/)       |         [C++](./Problems/078.%20Subsets/solution.h)          |         [Note](./Problems/078.%20Subsets/README.md)          |   Medium   |
 | 079  |  [Word Search](https://leetcode.com/problems/word-search/)   |      [C++](./Problems/079.%20Word%20Search/solution.h)       |      [Note](./Problems/079.%20Word%20Search/README.md)       |   Medium   |
+| 094  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./Problems/094.%20Binary%20Tree%20Inorder%20Traversal/solution.h) | [Note](./Problems/094.%20Binary%20Tree%20Inorder%20Traversal/README.md) |   Medium   |
+| 096  | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [C++](./Problems/096.%20Unique%20Binary%20Search%20Trees/solution.h) | [Note](./Problems/096.%20Unique%20Binary%20Search%20Trees/README.md) |   Medium   |
 
 
 
