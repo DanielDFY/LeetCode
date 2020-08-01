@@ -36,6 +36,9 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 079  |  [Word Search](https://leetcode.com/problems/word-search/)   |      [C++](./Problems/079.%20Word%20Search/solution.h)       |      [Note](./Problems/079.%20Word%20Search/README.md)       |   Medium   |
 | 094  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./Problems/094.%20Binary%20Tree%20Inorder%20Traversal/solution.h) | [Note](./Problems/094.%20Binary%20Tree%20Inorder%20Traversal/README.md) |   Medium   |
 | 096  | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [C++](./Problems/096.%20Unique%20Binary%20Search%20Trees/solution.h) | [Note](./Problems/096.%20Unique%20Binary%20Search%20Trees/README.md) |   Medium   |
+| 098  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](./Problems/098.%20Validate%20Binary%20Search%20Tree/solution.h) | [Note](./Problems/098.%20Validate%20Binary%20Search%20Tree/README.md) |   Medium   |
+| 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |     [C++](./Problems/101.%20Symmetric%20Tree/solution.h)     |     [Note](./Problems/101.%20Symmetric%20Tree/README.md)     |    Easy    |
+| 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C++](./Problems/102.%20Binary%20Tree%20Level%20Order%20Traversal/solution.h) | [Note](./Problems/102.%20Binary%20Tree%20Level%20Order%20Traversal/README.md) |   Medium   |
 
 
 
