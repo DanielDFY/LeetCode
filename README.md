@@ -39,6 +39,8 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 098  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](./Problems/098.%20Validate%20Binary%20Search%20Tree/solution.h) | [Note](./Problems/098.%20Validate%20Binary%20Search%20Tree/README.md) |   Medium   |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |     [C++](./Problems/101.%20Symmetric%20Tree/solution.h)     |     [Note](./Problems/101.%20Symmetric%20Tree/README.md)     |    Easy    |
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C++](./Problems/102.%20Binary%20Tree%20Level%20Order%20Traversal/solution.h) | [Note](./Problems/102.%20Binary%20Tree%20Level%20Order%20Traversal/README.md) |   Medium   |
+| 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./Problems/104.%20Maximum%20Depth%20of%20Binary%20Tree/solution.h) | [Note](./Problems/104.%20Maximum%20Depth%20of%20Binary%20Tree/README.md) |    Easy    |
+| 114  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [C++](./Problems/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/solution.h) | [Note](./Problems/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/README.md) |   Medium   |
 
 
 
