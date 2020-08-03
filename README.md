@@ -41,6 +41,9 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C++](./Problems/102.%20Binary%20Tree%20Level%20Order%20Traversal/solution.h) | [Note](./Problems/102.%20Binary%20Tree%20Level%20Order%20Traversal/README.md) |   Medium   |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./Problems/104.%20Maximum%20Depth%20of%20Binary%20Tree/solution.h) | [Note](./Problems/104.%20Maximum%20Depth%20of%20Binary%20Tree/README.md) |    Easy    |
 | 114  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [C++](./Problems/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/solution.h) | [Note](./Problems/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/README.md) |   Medium   |
+| 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./Problems/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.h) | [Note](./Problems/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md) |    Easy    |
+| 136  | [Single Number](https://leetcode.com/problems/single-number/) |     [C++](./Problems/136.%20Single%20Number/solution.h)      |     [Note](./Problems/136.%20Single%20Number/README.md)      |    Easy    |
+| 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./Problems/138.%20Copy%20List%20with%20Random%20Pointer/solution.h) | [Note](./Problems/138.%20Copy%20List%20with%20Random%20Pointer/README.md) |   Medium   |
 
 
 
