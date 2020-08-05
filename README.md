@@ -44,6 +44,7 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./Problems/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.h) | [Note](./Problems/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md) |    Easy    |
 | 136  | [Single Number](https://leetcode.com/problems/single-number/) |     [C++](./Problems/136.%20Single%20Number/solution.h)      |     [Note](./Problems/136.%20Single%20Number/README.md)      |    Easy    |
 | 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./Problems/138.%20Copy%20List%20with%20Random%20Pointer/solution.h) | [Note](./Problems/138.%20Copy%20List%20with%20Random%20Pointer/README.md) |   Medium   |
+| 139  |   [Word Break](https://leetcode.com/problems/word-break/)    |       [C++](./Problems/139.%20Word%20Break/solution.h)       |       [Note](./Problems/139.%20Word%20Break/README.md)       |   Medium   |
 
 
 
