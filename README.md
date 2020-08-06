@@ -45,6 +45,8 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 136  | [Single Number](https://leetcode.com/problems/single-number/) |     [C++](./Problems/136.%20Single%20Number/solution.h)      |     [Note](./Problems/136.%20Single%20Number/README.md)      |    Easy    |
 | 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./Problems/138.%20Copy%20List%20with%20Random%20Pointer/solution.h) | [Note](./Problems/138.%20Copy%20List%20with%20Random%20Pointer/README.md) |   Medium   |
 | 139  |   [Word Break](https://leetcode.com/problems/word-break/)    |       [C++](./Problems/139.%20Word%20Break/solution.h)       |       [Note](./Problems/139.%20Word%20Break/README.md)       |   Medium   |
+| 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |  [C++](./Problems/141.%20Linked%20List%20Cycle/solution.h)   |  [Note](./Problems/141.%20Linked%20List%20Cycle/README.md)   |    Easy    |
+| 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](./Problems/142.%20Linked%20List%20Cycle%20II/solution.h) | [Note](./Problems/142.%20Linked%20List%20Cycle%20II/README.md) |   Medium   |
 
 
 
