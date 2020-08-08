@@ -25,7 +25,7 @@ void deleteList(ListNode* pHead, int length) {
 	}
 }
 
-TEST_CASE("Linked List Cycle")
+TEST_CASE("Linked List Cycle II")
 {
 	Solution s;
 	
