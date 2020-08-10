@@ -48,6 +48,8 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |  [C++](./Problems/141.%20Linked%20List%20Cycle/solution.h)   |  [Note](./Problems/141.%20Linked%20List%20Cycle/README.md)   |    Easy    |
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](./Problems/142.%20Linked%20List%20Cycle%20II/solution.h) | [Note](./Problems/142.%20Linked%20List%20Cycle%20II/README.md) |   Medium   |
 | 146  |    [LRU Cache](https://leetcode.com/problems/lru-cache/)     |       [C++](./Problems/146.%20LRU%20Cache/solution.h)        |       [Note](./Problems/146.%20LRU%20Cache/README.md)        |   Medium   |
+| 148  |    [Sort List](https://leetcode.com/problems/sort-list/)     |       [C++](./Problems/148.%20Sort%20List/solution.h)        |       [Note](./Problems/148.%20Sort%20List/README.md)        |   Medium   |
+| 152  | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./Problems/152.%20Maximum%20Product%20Subarray/solution.h) | [Note](./Problems/152.%20Maximum%20Product%20Subarray/README.md) |   Medium   |
 
 
 
