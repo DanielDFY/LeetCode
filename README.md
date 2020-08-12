@@ -51,6 +51,7 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 148  |    [Sort List](https://leetcode.com/problems/sort-list/)     |       [C++](./Problems/148.%20Sort%20List/solution.h)        |       [Note](./Problems/148.%20Sort%20List/README.md)        |   Medium   |
 | 152  | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./Problems/152.%20Maximum%20Product%20Subarray/solution.h) | [Note](./Problems/152.%20Maximum%20Product%20Subarray/README.md) |   Medium   |
 | 155  |    [Min Stack](https://leetcode.com/problems/min-stack/)     |       [C++](./Problems/155.%20Min%20Stack/solution.h)        |       [Note](./Problems/155.%20Min%20Stack/README.md)        |    Easy    |
+| 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./Problems/160.%20Intersection%20of%20Two%20Linked%20Lists/solution.h) | [Note](./Problems/160.%20Intersection%20of%20Two%20Linked%20Lists/README.md) |    Easy    |
 
 
 
