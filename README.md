@@ -53,6 +53,8 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 155  |    [Min Stack](https://leetcode.com/problems/min-stack/)     |       [C++](./Problems/155.%20Min%20Stack/solution.h)        |       [Note](./Problems/155.%20Min%20Stack/README.md)        |    Easy    |
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./Problems/160.%20Intersection%20of%20Two%20Linked%20Lists/solution.h) | [Note](./Problems/160.%20Intersection%20of%20Two%20Linked%20Lists/README.md) |    Easy    |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/) |    [C++](./Problems/169.%20Majority%20Element/solution.h)    |    [Note](./Problems/169.%20Majority%20Element/README.md)    |    Easy    |
+| 198  |  [House Robber](https://leetcode.com/problems/house-robber)  |      [C++](./Problems/198.%20House%20Robber/solution.h)      |      [Note](./Problems/198.%20House%20Robber/README.md)      |    Easy    |
+| 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands) |  [C++](./Problems/200.%20Number%20of%20Islands/solution.h)   |  [Note](./Problems/200.%20Number%20of%20Islands/README.md)   |   Medium   |
 
 
 
