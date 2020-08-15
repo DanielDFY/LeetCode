@@ -55,6 +55,8 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/) |    [C++](./Problems/169.%20Majority%20Element/solution.h)    |    [Note](./Problems/169.%20Majority%20Element/README.md)    |    Easy    |
 | 198  |  [House Robber](https://leetcode.com/problems/house-robber)  |      [C++](./Problems/198.%20House%20Robber/solution.h)      |      [Note](./Problems/198.%20House%20Robber/README.md)      |    Easy    |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands) |  [C++](./Problems/200.%20Number%20of%20Islands/solution.h)   |  [Note](./Problems/200.%20Number%20of%20Islands/README.md)   |   Medium   |
+| 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [C++](./Problems/206.%20Reverse%20Linked%20List/solution.h)  | [Note](./Problems/206.%20Reverse%20Linked%20List/README.md)  |    Easy    |
+| 207  | [Course Schedule](https://leetcode.com/problems/course-schedule) |    [C++](./Problems/207.%20Course%20Schedule/solution.h)     |    [Note](./Problems/207.%20Course%20Schedule/README.md)     |   Medium   |
 
 
 
