@@ -2,7 +2,7 @@
 #include "../../Utils/Cacth/single_include/catch2/catch.hpp"
 #include "solution.h"
 
-TEST_CASE("Course Schedule")
+TEST_CASE("Implement Trie (Prefix Tree)")
 {
 	SECTION("normal input") {
 		Trie trie;
