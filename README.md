@@ -57,6 +57,7 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands) |  [C++](./Problems/200.%20Number%20of%20Islands/solution.h)   |  [Note](./Problems/200.%20Number%20of%20Islands/README.md)   |   Medium   |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [C++](./Problems/206.%20Reverse%20Linked%20List/solution.h)  | [Note](./Problems/206.%20Reverse%20Linked%20List/README.md)  |    Easy    |
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule) |    [C++](./Problems/207.%20Course%20Schedule/solution.h)     |    [Note](./Problems/207.%20Course%20Schedule/README.md)     |   Medium   |
+| 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [C++](./Problems/208.%20Implement%20Trie%20(Prefix%20Tree)/solution.h) | [Note](./Problems/208.%20Implement%20Trie%20(Prefix%20Tree)/README.md) |   Medium   |
 
 
 
