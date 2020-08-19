@@ -59,6 +59,7 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule) |    [C++](./Problems/207.%20Course%20Schedule/solution.h)     |    [Note](./Problems/207.%20Course%20Schedule/README.md)     |   Medium   |
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [C++](./Problems/208.%20Implement%20Trie%20(Prefix%20Tree)/solution.h) | [Note](./Problems/208.%20Implement%20Trie%20(Prefix%20Tree)/README.md) |   Medium   |
 | 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [C++](./Problems/215.%20Kth%20Largest%20Element%20in%20an%20Array/solution.h) | [Note](./Problems/215.%20Kth%20Largest%20Element%20in%20an%20Array/README.md) |   Medium   |
+| 221  | [Maximal Square](https://leetcode.com/problems/maximal-square) |     [C++](./Problems/221.%20Maximal%20Square/solution.h)     |     [Note](./Problems/221.%20Maximal%20Square/README.md)     |   Medium   |
 
 
 
