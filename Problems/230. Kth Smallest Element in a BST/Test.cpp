@@ -2,7 +2,7 @@
 #include "../../Utils/Cacth/single_include/catch2/catch.hpp"
 #include "solution.h"
 
-TEST_CASE("Maximal Square")
+TEST_CASE("Kth Smallest Element in a BST")
 {
 	Solution s;
 	

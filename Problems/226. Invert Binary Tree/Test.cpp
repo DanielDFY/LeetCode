@@ -15,7 +15,7 @@ bool isSameTree(TreeNode* lhs, TreeNode* rhs) {
 	return isSameTree(lhs->left, rhs->left) && isSameTree(lhs->right, rhs->right);
 }
 
-TEST_CASE("Maximal Square")
+TEST_CASE("Invert Binary Tree")
 {
 	Solution s;
 	
