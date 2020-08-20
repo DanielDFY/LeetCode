@@ -60,6 +60,8 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [C++](./Problems/208.%20Implement%20Trie%20(Prefix%20Tree)/solution.h) | [Note](./Problems/208.%20Implement%20Trie%20(Prefix%20Tree)/README.md) |   Medium   |
 | 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [C++](./Problems/215.%20Kth%20Largest%20Element%20in%20an%20Array/solution.h) | [Note](./Problems/215.%20Kth%20Largest%20Element%20in%20an%20Array/README.md) |   Medium   |
 | 221  | [Maximal Square](https://leetcode.com/problems/maximal-square) |     [C++](./Problems/221.%20Maximal%20Square/solution.h)     |     [Note](./Problems/221.%20Maximal%20Square/README.md)     |   Medium   |
+| 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) |  [C++](./Problems/226.%20Invert%20Binary%20Tree/solution.h)  |  [Note](./Problems/226.%20Invert%20Binary%20Tree/README.md)  |    Easy    |
+| 230  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [C++](./Problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST/solution.h) | [Note](./Problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST/README.md) |   Medium   |
 
 
 
