@@ -62,6 +62,8 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 221  | [Maximal Square](https://leetcode.com/problems/maximal-square) |     [C++](./Problems/221.%20Maximal%20Square/solution.h)     |     [Note](./Problems/221.%20Maximal%20Square/README.md)     |   Medium   |
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) |  [C++](./Problems/226.%20Invert%20Binary%20Tree/solution.h)  |  [Note](./Problems/226.%20Invert%20Binary%20Tree/README.md)  |    Easy    |
 | 230  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [C++](./Problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST/solution.h) | [Note](./Problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST/README.md) |   Medium   |
+| 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) |  [C++](./Problems/234.%20Palindrome Linked List/solution.h)  |  [Note](./Problems/234.%20Palindrome Linked List/README.md)  |    Easy    |
+| 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [C++](./Problems/236.%20Lowest Common Ancestor of a Binary Tree/solution.h) | [Note](./Problems/236.%20Lowest Common Ancestor of a Binary Tree/README.md) |   Medium   |
 
 
 

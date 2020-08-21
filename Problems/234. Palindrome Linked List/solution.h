@@ -4,57 +4,24 @@
 #include <stack>
 using std::stack;
 
-// Definition for singly-linked list.
-struct ListNode {
+// Definition for a binary tree node.
+struct TreeNode {
     int val;
-    ListNode *next;
-    ListNode() : val(0), next(nullptr) {}
-    ListNode(int x) : val(x), next(nullptr) {}
-    ListNode(int x, ListNode *next) : val(x), next(next) {}
+    TreeNode *left;
+    TreeNode *right;
+    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
 
 class Solution {
 public:
-    bool isPalindrome(ListNode* head) {
-        if (head == nullptr || head->next == nullptr)
-            return true;
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        if (root == nullptr || p == root || q == root)
+            return root;
 
-        ListNode* pFast = head;
-        ListNode* pSlow = head;
+        TreeNode* leftLCA = lowestCommonAncestor(root->left, p, q);
+        TreeNode* rightLCA = lowestCommonAncestor(root->right, p, q);
 
-        while (pFast != nullptr && pFast->next != nullptr) {
-            pFast = pFast->next->next;
-            pSlow = pSlow->next;
-        }
-
-        // odd nodes: let right half smaller
-        if (pFast != nullptr)
-            pSlow = pSlow->next;
-
-        pSlow = reverseList(pSlow);
-        pFast = head;
-
-        while (pSlow != nullptr) {
-            if (pFast->val != pSlow->val)
-                return false;
-
-            pFast = pFast->next;
-            pSlow = pSlow->next;
-        }
-
-        return true;
-    }
-
-private:
-    ListNode* reverseList(ListNode* pHead) {
-        ListNode* pPrev = nullptr;
-        while (pHead != nullptr) {
-            ListNode* pNext = pHead->next;
-            pHead->next = pPrev;
-            pPrev = pHead;
-            pHead = pNext;
-        }
-        return pPrev;
+        return (leftLCA == nullptr) ? rightLCA : (rightLCA == nullptr) ? leftLCA : root;
     }
 };
 
