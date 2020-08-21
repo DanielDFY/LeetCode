@@ -34,7 +34,7 @@ According to the [definition of LCA on Wikipedia](https://en.wikipedia.org/wiki/
 
 Time complexity: O(N).
 
-Space complexity: O(1).
+Space complexity: O(N).
 
 
 
