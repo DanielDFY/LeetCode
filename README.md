@@ -65,6 +65,7 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [C++](./Problems/234.%20Palindrome%20Linked%20List/solution.h) | [Note](./Problems/234.%20Palindrome%20Linked%20List/README.md) |    Easy    |
 | 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [C++](./Problems/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/solution.h) | [Note](./Problems/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/README.md) |   Medium   |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [C++](./Problems/238.%20Product%20of%20Array%20Except%20Self/solution.h) | [Note](./Problems/238.%20Product%20of%20Array%20Except%20Self/README.md) |   Medium   |
+| 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [C++](./Problems/240.%20Search%20a%202D%20Matrix%20II/solution.h) | [Note](./Problems/240.%20Search%20a%202D%20Matrix%20II/README.md) |   Medium   |
 
 
 
