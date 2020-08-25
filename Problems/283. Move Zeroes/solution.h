@@ -6,23 +6,18 @@ using std::vector;
 
 class Solution {
 public:
-    int findDuplicate(vector<int>& nums) {
-        int idxFast = 0;
-        int idxSlow = 0;
-
-        do {
-            idxFast = nums[nums[idxFast]];
-            idxSlow = nums[idxSlow];
-        } while (idxFast != idxSlow);
-
-        int ret = 0;
-
-        while (ret != idxSlow) {
-            ret = nums[ret];
-            idxSlow = nums[idxSlow];
+    void moveZeroes(vector<int>& nums) {
+        int size = nums.size();
+        int nonZeroTailIdx = 0;
+        for (int i = 0, nonZeroTailIdx = 0; i < size; ++i) {
+            if (nums[i] != 0) {
+                nums[nonZeroTailIdx] = nums[i];
+                if (nonZeroTailIdx != i) {
+                    nums[i] = 0;
+                }
+                ++nonZeroTailIdx;
+            }
         }
-
-        return ret;
     }
 };
 
