@@ -3,12 +3,19 @@
 #include "solution.h"
 
 
-TEST_CASE("Best Time to Buy and Sell Stock with Cooldown")
+TEST_CASE("Coin Change")
 {
 	Solution s;
 	
 	SECTION("normal input") {
-		vector<int> prices = { 1,2,3,0,2 };
-		CHECK(s.maxProfit(prices) == 3);
+		vector<int> coins = { 1, 2, 5 };
+		int amount = 11;
+		CHECK(s.coinChange(coins, amount) == 3);
+	}
+
+	SECTION("no valid combination") {
+		vector<int> coins = { 2 };
+		int amount = 3;
+		CHECK(s.coinChange(coins, amount) == -1);
 	}
 }

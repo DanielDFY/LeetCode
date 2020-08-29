@@ -5,30 +5,22 @@
 using std::vector;
 
 #include <algorithm>
-using std::max;
+using std::min;
 
 class Solution {
 public:
-    int maxProfit(vector<int>& prices) {
-        int len = prices.size();
-        if (len < 2) return 0;
-
-        int buy = -prices[0];
-        int cooldown = 0;
-        int sell = 0;
-        int hold = -prices[0];
-
-        for (int i = 1; i < len; ++i) {
-            int oldHold = hold;
-            int oldSell = sell;
-
-            hold = max(buy, oldHold);
-            sell = prices[i] + max(buy, oldHold);
-            buy = cooldown - prices[i];
-            cooldown = max(cooldown, oldSell);
+    int coinChange(vector<int>& coins, int amount) {
+        int max = amount + 1;
+        vector<int> dp(max, max);
+        dp[0] = 0;
+        for (int i = 1; i <= amount; ++i) {
+            for (int j = 0; j < coins.size(); ++j) {
+                if (coins[j] <= i) {
+                    dp[i] = min(dp[i], dp[i - coins[j]] + 1);
+                }
+            }
         }
-
-        return max(sell, cooldown);
+        return dp[amount] > amount ? -1 : dp[amount];
     }
 };
 
