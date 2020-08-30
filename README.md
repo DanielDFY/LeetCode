@@ -72,6 +72,7 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [C++](./Problems/300.%20Longest%20Increasing%20Subsequence/solution.h) | [Note](./Problems/300.%20Longest%20Increasing%20Subsequence/README.md) |   Medium   |
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | [C++](./Problems/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown/solution.h) | [Note](./Problems/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown/README.md) |   Medium   |
 | 322  |   [Coin Change](https://leetcode.com/problems/coin-change)   |      [C++](./Problems/322.%20Coin%20Change/solution.h)       |      [Note](./Problems/322.%20Coin%20Change/README.md)       |   Medium   |
+| 337  | [House Robber III](https://leetcode.com/problems/house-robber-iii) |   [C++](./Problems/337.%20House%20Robber%20III/solution.h)   |   [Note](./Problems/337.%20House%20Robber%20III/README.md)   |   Medium   |
 
 
 
