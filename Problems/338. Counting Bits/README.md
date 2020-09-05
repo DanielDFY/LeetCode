@@ -8,11 +8,9 @@ Given a non negative integer number **num**. For every numbers **i** in the rang
 > Input: 2
 > Output: [0,1,1]
 >    
->    Input: [3,4,5,1,3,null,1]
->    
 >    Input: 5
 >    Output: [0,1,1,2,1,2]
-> ```
+>    ```
 
 
 
