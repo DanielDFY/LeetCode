@@ -75,6 +75,7 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 337  | [House Robber III](https://leetcode.com/problems/house-robber-iii) |   [C++](./Problems/337.%20House%20Robber%20III/solution.h)   |   [Note](./Problems/337.%20House%20Robber%20III/README.md)   |   Medium   |
 | 338  | [Counting Bits](https://leetcode.com/problems/counting-bits) |     [C++](./Problems/338.%20Counting%20Bits/solution.h)      |     [Note](./Problems/338.%20Counting%20Bits/README.md)      |   Medium   |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [C++](./Problems/347.%20Top%20K%20Frequent%20Elements/solution.h) | [Note](./Problems/347.%20Top%20K%20Frequent%20Elements/README.md) |   Medium   |
+| 394  | [Decode String](https://leetcode.com/problems/decode-string) |     [C++](./Problems/394.%20Decode%20String/solution.h)      |     [Note](./Problems/394.%20Decode%20String/README.md)      |   Medium   |
 
 
 
