@@ -7,7 +7,7 @@ TEST_CASE("Decode String")
 {
 	Solution s;
 	
-	SECTION("heap") {
+	SECTION("normal input") {
 		CHECK(s.decodeString("3[a]2[bc]") == "aaabcbc");
 		
 		CHECK(s.decodeString("3[a2[c]]") == "accaccacc");
