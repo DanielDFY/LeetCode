@@ -78,6 +78,7 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 394  | [Decode String](https://leetcode.com/problems/decode-string) |     [C++](./Problems/394.%20Decode%20String/solution.h)      |     [Note](./Problems/394.%20Decode%20String/README.md)      |   Medium   |
 | 406  | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) | [C++](./Problems/406.%20Queue%20Reconstruction%20by%20Height/solution.h) | [Note](./Problems/406.%20Queue%20Reconstruction%20by%20Height/README.md) |   Medium   |
 | 419  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | [C++](./Problems/419.%20Partition%20Equal%20Subset%20Sum/solution.h) | [Note](./Problems/419.%20Partition%20Equal%20Subset%20Sum/README.md) |   Medium   |
+| 437  |  [Path Sum III](https://leetcode.com/problems/path-sum-iii)  |     [C++](./Problems/437.%20Path%20Sum%20III/solution.h)     |     [Note](./Problems/437.%20Path%20Sum%20III/README.md)     |   Medium   |
 
 
 

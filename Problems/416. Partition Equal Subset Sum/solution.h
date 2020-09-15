@@ -4,6 +4,12 @@
 #include <vector>
 using std::vector;
 
+#include <algorithm>
+using std::sort;
+
+#include <numeric>
+using std::accumulate;
+
 class Solution {
 public:
     bool canPartition(vector<int>& nums) {

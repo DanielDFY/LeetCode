@@ -3,7 +3,7 @@
 #include "solution.h"
 
 
-TEST_CASE("Queue Reconstruction by Height") {
+TEST_CASE("Partition Equal Subset Sum") {
 	Solution s;
 	
 	SECTION("normal input") {

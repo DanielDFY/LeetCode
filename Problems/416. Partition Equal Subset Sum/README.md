@@ -23,15 +23,11 @@ Given a **non-empty** array containing **only positive integers**, find if the a
 
 **Idea:** 
 
-The basic idea is to understand that to partition an array into two subsets of equal sum say `subSetSum`, the `totalSum` of given array must be twice the `subSetSum`. We only need to fine if there is a possible conbination which sums up to `subSetSum`. Also the size of input numbers should be even.
+The basic idea is to understand that to partition an array into two subsets of equal sum say `subSetSum`, the `totalSum` of given array must be twice the `subSetSum`. We only need to fine if there is a possible combination which sums up to `subSetSum`. Also the size of input numbers should be even.
 
 
 
-To find possible conbination, sort the input numbers (so we can trim searching early) and do DFS from the start.
-
-\text{totalSum} = \text{subsSetSum} * 2totalSum=subsSetSum∗2
-
-This could also be written as, \text{subSetSum} = \text{totalSum}/2subSetSum=totalSum/2
+To find possible combination, sort the input numbers (so we can trim searching early) and do DFS from the start.
 
 
 
