@@ -79,6 +79,7 @@ LeetCode solutions in C++11 with unit tests under [Catch2](https://github.com/ca
 | 406  | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) | [C++](./Problems/406.%20Queue%20Reconstruction%20by%20Height/solution.h) | [Note](./Problems/406.%20Queue%20Reconstruction%20by%20Height/README.md) |   Medium   |
 | 419  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | [C++](./Problems/419.%20Partition%20Equal%20Subset%20Sum/solution.h) | [Note](./Problems/419.%20Partition%20Equal%20Subset%20Sum/README.md) |   Medium   |
 | 437  |  [Path Sum III](https://leetcode.com/problems/path-sum-iii)  |     [C++](./Problems/437.%20Path%20Sum%20III/solution.h)     |     [Note](./Problems/437.%20Path%20Sum%20III/README.md)     |   Medium   |
+| 438  | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | [C++](./Problems/438.%20Find%20All%20Anagrams%20in%20a%20String/solution.h) | [Note](./Problems/438.%20Find%20All%20Anagrams%20in%20a%20String/README.md) |   Medium   |
 
 
 
